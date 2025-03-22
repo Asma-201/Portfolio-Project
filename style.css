@@ -301,8 +301,8 @@ p{
 .contact{
     background-color: #39a4ac;
     text-align: center;
-    padding-left: 85px;
-    padding-right: 85px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .contact input, textarea{
     width: 100%;
